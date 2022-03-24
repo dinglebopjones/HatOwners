@@ -2,17 +2,15 @@
   "IDList":[
     { 
       "ListNumber": "2",
-      "Name": "JM",
       "ID": "76561199248069801"
     },
     { 
       "ListNumber": "3",
-      "Name": "JoeE",
+      "Name": "Joe E",
       "ID": "76561198071500929"
     },
     { 
       "ListNumber": "1",
-      "Name": "Dev",
       "ID": "76561198066857712"
     }
   ]
