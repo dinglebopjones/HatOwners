@@ -21,26 +21,25 @@
     },
     { 
       "ListNumber": "6",
-      "Name": "Scrooglegogle",
-      "ID": "76561198001751294"
-    },
-    { 
-      "ListNumber": "7",
-      "Name": "IG",
-      "ID": "76561198152959250"
-    },
-    { 
-      "ListNumber": "8",
       "Name": "NamedStinky",
       "ID": "76561199173392953"
     },
     { 
-      "ListNumber": "9",
+      "ListNumber": "7",
       "Name": "Big Bob",
       "ID": "76561198371516570"
     },
     { 
-      "ListNumber": "1",
+      "ListNumber": "8",
+      "Name": "IG",
+      "ID": "76561198152959250"
+    },
+    { 
+      "ListNumber": "9",
+      "ID": "76561198001751294"
+    },
+    { 
+      "ListNumber": "10",
       "ID": "76561198066857712"
     }
   ]
