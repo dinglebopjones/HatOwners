@@ -1,45 +1,45 @@
 {
   "IDList":[
     { 
-      "ListNumber": "2",
-      "ID": "76561199248069801"
-    },
-    { 
-      "ListNumber": "3",
+      "ListNumber": "1",
       "Name": "Joe E",
       "ID": "76561198071500929"
     },
     { 
-      "ListNumber": "4",
+      "ListNumber": "2",
       "Name": "Joji",
       "ID": "76561198095572810"
     },
     { 
-      "ListNumber": "5",
+      "ListNumber": "3",
       "Name": "GraciousCub",
       "ID": "76561199008874484"
     },
     { 
-      "ListNumber": "6",
+      "ListNumber": "4",
       "Name": "NamedStinky",
       "ID": "76561199173392953"
     },
     { 
-      "ListNumber": "7",
+      "ListNumber": "5",
       "Name": "Big Bob",
       "ID": "76561198371516570"
     },
     { 
-      "ListNumber": "8",
+      "ListNumber": "6",
       "Name": "IG",
       "ID": "76561198152959250"
     },
     { 
-      "ListNumber": "9",
+      "ListNumber": "7",
       "ID": "76561198001751294"
     },
     { 
-      "ListNumber": "10",
+      "ListNumber": "8",
+      "ID": "76561199248069801"
+    },
+    { 
+      "ListNumber": "9",
       "ID": "76561198066857712"
     }
   ]
